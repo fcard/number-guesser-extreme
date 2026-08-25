@@ -1,3 +1,12 @@
+# NUMBER-GUESSER-EXTREME
+
+Projeto para a disciplina de Circuitos Digitais da UFCA (2026.1)
+
+
+# RELATORIO
+
+Abaixo seguem descrições de todos os componentes lógicos do projeto.
+
 # Circuitos de Auxilio
 
 ### HOLD
